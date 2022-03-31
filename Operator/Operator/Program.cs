@@ -3,14 +3,18 @@ using System;
 
 namespace Operator
 {
-    public enum Currecly { Dollar, Euro, Lire }
+    public enum Currecly { Dollar=1, Euro, Lire }
     internal class Program
     {
         static void Main(string[] args)
+        {
+            //{ Selsi selsi = new Selsi(100);
+            //    Kelvin kelvin = selsi;
+            //    Console.WriteLine(kelvin.Degre);
+            Console.WriteLine("zehmet olmasa azn daxil edin");
+            double azn=Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine(Exchange(Currecly.Dollar,azn));
 
-        { Selsi selsi = new Selsi(100);
-            Kelvin kelvin = selsi;
-            Console.WriteLine(kelvin.Degre);
 
         }
         public static double Exchange(Enum obj, double azn)
