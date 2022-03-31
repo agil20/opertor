@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\Operateroverloadin\\Operator\\Operator\\Operator.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\opertorff\\Operator\\Operator\\Operator.csproj",
       "projectName": "Operator",
-      "projectPath": "C:\\Users\\User\\Desktop\\Operateroverloadin\\Operator\\Operator\\Operator.csproj",
+      "projectPath": "C:\\Users\\User\\Source\\Repos\\opertorff\\Operator\\Operator\\Operator.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\Operateroverloadin\\Operator\\Operator\\obj\\",
+      "outputPath": "C:\\Users\\User\\Source\\Repos\\opertorff\\Operator\\Operator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
