@@ -1,0 +1,16 @@
+C:\Users\User\Source\Repos\opertor122\Operator\Operator\bin\Debug\net5.0\Operator.exe
+C:\Users\User\Source\Repos\opertor122\Operator\Operator\bin\Debug\net5.0\Operator.deps.json
+C:\Users\User\Source\Repos\opertor122\Operator\Operator\bin\Debug\net5.0\Operator.runtimeconfig.json
+C:\Users\User\Source\Repos\opertor122\Operator\Operator\bin\Debug\net5.0\Operator.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\opertor122\Operator\Operator\bin\Debug\net5.0\Operator.dll
+C:\Users\User\Source\Repos\opertor122\Operator\Operator\bin\Debug\net5.0\Operator.pdb
+C:\Users\User\Source\Repos\opertor122\Operator\Operator\obj\Debug\net5.0\Operator.csproj.AssemblyReference.cache
+C:\Users\User\Source\Repos\opertor122\Operator\Operator\obj\Debug\net5.0\Operator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Source\Repos\opertor122\Operator\Operator\obj\Debug\net5.0\Operator.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\opertor122\Operator\Operator\obj\Debug\net5.0\Operator.AssemblyInfo.cs
+C:\Users\User\Source\Repos\opertor122\Operator\Operator\obj\Debug\net5.0\Operator.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\opertor122\Operator\Operator\obj\Debug\net5.0\Operator.dll
+C:\Users\User\Source\Repos\opertor122\Operator\Operator\obj\Debug\net5.0\refint\Operator.dll
+C:\Users\User\Source\Repos\opertor122\Operator\Operator\obj\Debug\net5.0\Operator.pdb
+C:\Users\User\Source\Repos\opertor122\Operator\Operator\obj\Debug\net5.0\Operator.genruntimeconfig.cache
+C:\Users\User\Source\Repos\opertor122\Operator\Operator\obj\Debug\net5.0\ref\Operator.dll

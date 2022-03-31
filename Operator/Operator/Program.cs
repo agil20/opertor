@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Operator.Models;
+using System;
 
 namespace Operator
 {
@@ -7,7 +8,9 @@ namespace Operator
     {
         static void Main(string[] args)
 
-        {
+        { Selsi selsi = new Selsi(100);
+            Kelvin kelvin = selsi;
+            Console.WriteLine(kelvin.Degre);
 
         }
         public static double Exchange(Enum obj, double azn)
@@ -46,5 +49,8 @@ namespace Operator
 
 
     }
-}
 
+}
+/*2. Kelvin ve Celsius(selsi) adli iki temperaturu gosteren klasslarimiz var
+ * ve Degree adli property-leri var.
+ * Celcius uchun implicit operatorunu yazmaginizi isteyirem.(0C=273K)*/
